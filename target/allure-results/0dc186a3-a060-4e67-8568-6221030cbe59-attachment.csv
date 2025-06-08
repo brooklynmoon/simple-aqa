@@ -1,3 +1,0 @@
-SELECT	customer_name
-FROM	bookings
-WHERE	id='{id2}'
